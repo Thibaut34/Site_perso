@@ -1,0 +1,68 @@
+body{
+    background-image: url("fond.jpg");
+}
+#image1{
+    height: 300px;
+    width: 50cm;
+    opacity: 0.8;
+}
+.title1{
+    font-family: cursive;
+    font-size: 80px;
+    color: grey;
+    position: absolute;
+    left: 20cm;
+    top: 1cm;
+}
+h2{
+    font-family: cursive;
+    text-decoration: underline;
+}
+li{
+    font-family: cursive;
+}
+label{
+    text-decoration: underline;
+}
+.me{
+    height: 4cm;
+    width: 4cm;
+}
+.imagec1{
+    width: 260px;
+    height: 260px;
+}
+.imagec2{
+    background-color: white;
+}
+.imagec3{
+    background-color: white;
+}
+.imagec4{
+    width: 260px;
+    height: 260px;
+    background-color: white;
+}
+.imagec5{
+    width: 260px;
+    height: 260px;
+    background-color: white;
+}
+.imagec6{
+    width: 260px;
+    height: 260px;
+}
+.imagec7{
+    width: 260px;
+    height: 260px;
+    background-color: white;
+}
+p{
+  font-family: cursive;  
+}
+.form1{
+    background-color: white;
+}
+#nom_entreprise{
+    background-color: white;
+}
